@@ -2,7 +2,10 @@
 Eric Peng homework1  
 This is my homework   
 The descriptions of all Exercises just follow 
+#########PART1 Problem 2##########
+Please see the jupyter notebook  2a.ipynb 2b.ipynb and 2c.ipynb 
 
+#########PART2 Problem 4##########
 =====Exercise 1=====
 
   -----Question 1-----

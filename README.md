@@ -5,7 +5,12 @@ The descriptions of all Exercises just follow
 
 #########PART1 Problem 2##########
 
-Please see the jupyter notebook  2a.ipynb 2b.ipynb and 2c.ipynb 
+Please see the jupyter notebook  
+  2a.ipynb
+
+  2b.ipynb 
+
+  2c.ipynb 
 
 #########PART2 Problem 4##########
 

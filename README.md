@@ -31,4 +31,5 @@ Please see the Exercise4.ipynb
   Please see the Exercise5.ipynb
 
 =====Exercise 6=====
+
   Please see the Exercise5.ipynb

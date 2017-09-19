@@ -22,3 +22,12 @@ They all have a bright core with halo or spiral around it ,diffrent shape can be
 
 Please see the "notebook.csv" 
   15 galaxies of Abell 2255,both spirals and ellipticals, and they are saved them in your notebook. They have almost the same redshift z~0.08,but different in shape,spirals or ellipticals.
+=====Exercise 4=====
+
+Please see the Exercise4.ipynb
+
+=====Exercise 5=====
+Please see the Exercise5.ipynb
+
+=====Exercise 6=====
+Please see the Exercise5.ipynb

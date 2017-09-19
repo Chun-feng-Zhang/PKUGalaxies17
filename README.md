@@ -1,6 +1,8 @@
 # PKUGalaxies17
 Eric Peng homework1  
+
 This is my homework   
+
 The descriptions of all Exercises just follow 
 
 #########PART1 Problem 2##########
@@ -11,6 +13,9 @@ Please see the jupyter notebook
   2b.ipynb 
 
   2c.ipynb 
+######### Problem 3  ###########
+
+I skip it.
 
 #########PART2 Problem 4##########
 
